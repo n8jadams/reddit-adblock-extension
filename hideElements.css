@@ -1,0 +1,4 @@
+div.promotedlink,
+div[data-before-content=advertisement] {
+  display: none;
+}
